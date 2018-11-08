@@ -1,1 +1,0 @@
-{"SampleRate":100,"CalculatedSampleRate":0.0,"SensorAdjust":{},"FileMetadata":[{"value":"User002","name":"Subject","type":"string","capture_sample_sequence_start":0,"capture_sample_sequence_end":2019,"uuid":null,"segmenter":null}]}
